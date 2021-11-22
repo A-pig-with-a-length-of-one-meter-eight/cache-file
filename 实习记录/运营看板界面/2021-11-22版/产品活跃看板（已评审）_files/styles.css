@@ -1,0 +1,521 @@
+.ax_default {
+  font-family:'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#333333;
+  vertical-align:none;
+  text-align:center;
+  line-height:normal;
+  text-transform:none;
+}
+._形状 {
+}
+._图像 {
+}
+.button {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.link_button {
+  color:#169BD5;
+}
+._标题_1 {
+  font-family:'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+._标题_2 {
+  font-family:'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+._标题_3 {
+  font-family:'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+._标题_4 {
+  font-family:'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+._标题_5 {
+  font-family:'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+._标题_6 {
+  font-family:'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+._文本 {
+  text-align:left;
+}
+.line {
+}
+.vertical_line {
+}
+.image {
+  color:#000000;
+}
+.tree_node {
+  text-align:center;
+  line-height:11px;
+}
+.paragraph {
+  text-align:left;
+}
+.arrow {
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.form_disabled {
+}
+.icon {
+  color:#5F83EB;
+}
+._背景-全局-微 {
+}
+._表单提示 {
+  color:#999999;
+}
+._表单禁用 {
+}
+._流程形状 {
+}
+.box_2 {
+}
+.box_3 {
+}
+.ellipse {
+}
+.heading_2 {
+  font-family:'Arial Bold', 'Arial', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
+.table {
+}
+.table_cell {
+}
+.box_1 {
+}
+.image1 {
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.label1 {
+  font-size:14px;
+  text-align:left;
+}
+.icon1 {
+}
+.tree_node1 {
+  text-align:left;
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.line1 {
+}
+.shape {
+}
+.paragraph1 {
+  text-align:left;
+}
+.heading_1 {
+  font-family:'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.heading_21 {
+  font-family:'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.horizontal_line {
+}
+._连接符 {
+}
+.flow_shape {
+}
+._文本段落 {
+  text-align:left;
+}
+._二级标题 {
+  font-family:'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.heading_11 {
+  font-family:'Arial Bold', 'Arial', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+._图片 {
+}
+.icon-__ {
+  color:#5F83EB;
+}
+.icon-__1 {
+  color:#5F83EB;
+}
+._背景-全局-白 {
+}
+._水平线 {
+}
+._形状1 {
+  font-family:'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+._背景-全局-浅 {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  text-align:right;
+}
+._背景-全局-中 {
+  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC', sans-serif;
+  font-weight:650;
+  font-style:normal;
+  font-size:14px;
+  letter-spacing:2px;
+}
+._背景-全局-深 {
+}
+._背景-功能色-小计 {
+}
+._背景-功能色-合计 {
+}
+._背景-主题色-选中 {
+  text-align:right;
+}
+._文字-标题-主 {
+  font-family:'PingFangSC-Medium', 'PingFang SC Medium', 'PingFang SC', sans-serif;
+  font-weight:500;
+  font-style:normal;
+  font-size:18px;
+  color:#151515;
+  text-align:left;
+}
+._文字-标题-次 {
+  font-family:'PingFangSC-Medium', 'PingFang SC Medium', 'PingFang SC', sans-serif;
+  font-weight:500;
+  font-style:normal;
+  font-size:16px;
+  color:#151515;
+  text-align:left;
+}
+._文字-正文-主 {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#151515;
+  text-align:left;
+  line-height:28px;
+}
+._文字-正文-次 {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#AAAAAA;
+  text-align:left;
+  line-height:21px;
+}
+._文字-特殊-金额 {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#ED8150;
+  text-align:right;
+}
+._标签-动态-默认 {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#868686;
+  text-align:left;
+}
+._标签-状态-完成 {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#33CC00;
+  text-align:left;
+  line-height:normal;
+}
+._标签-状态-失败 {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#FF0000;
+  text-align:left;
+  line-height:normal;
+}
+._标签-属性-蓝色 {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#FFFFFF;
+  text-align:left;
+  line-height:normal;
+}
+._标签-属性-橙色 {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#FFFFFF;
+  text-align:left;
+  line-height:normal;
+}
+._标签-角标 {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:11px;
+  color:#FFFFFF;
+}
+._按钮-全局-禁用 {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#AAAAAA;
+  text-align:center;
+}
+._按钮-主要按钮-默认 {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+  text-align:left;
+}
+._按钮-主要按钮-点击 {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+  text-align:left;
+}
+._按钮-次要按钮-默认 {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  color:#7F7F7F;
+  text-align:left;
+}
+._按钮-辅助按钮-默认 {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  color:#5582F3;
+  text-align:left;
+}
+._按钮-文字按钮-默认 {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  color:#5582F3;
+  text-align:left;
+}
+._页签-全局-禁用 {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#AAAAAA;
+  text-align:left;
+}
+._页签-全局大页签-默认 {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#555555;
+  text-align:left;
+}
+._页签-全局大页签-选中 {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:left;
+}
+._页签-页面级页签-默认 {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#555555;
+  text-align:left;
+}
+._页签-页面级页签-选中 {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#5F83EB;
+  text-align:left;
+}
+._页签-大区域页签-默认 {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#555555;
+  text-align:left;
+}
+._页签-大区域页签-选中 {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#5F83EB;
+  text-align:left;
+}
+._页签-纵向页签-默认 {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#555555;
+  text-align:left;
+}
+._页签-纵向页签-选中 {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#5F83EB;
+  text-align:left;
+}
+._动态表格-右对齐 {
+  font-size:14px;
+  text-align:right;
+}
+._动态表格-左对齐 {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-align:left;
+}
+._动态表格-居中对齐 {
+  font-size:13px;
+  text-align:center;
+}
+._单选（框）-默认 {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-align:left;
+}
+._复选框（小框） {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-align:left;
+}
+._输入框-全局-禁用 {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#AAAAAA;
+  text-align:left;
+}
+._输入框-线型-默认 {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#000000;
+  text-align:left;
+}
+._输入框-框型-默认 {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#000000;
+  text-align:left;
+}
+._开关-默认 {
+}
+._开关-选中 {
+  color:#5F83EB;
+}
+._横线-常规 {
+}
+._竖线-常规 {
+}
+._圆-白 {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+}
+._单选树_ {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+._图片_ {
+}
+.flow_shape1 {
+}
+.form_hint {
+  color:#999999;
+}
+textarea, select, input, button { outline: none; }
